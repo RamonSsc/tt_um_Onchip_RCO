@@ -1,167 +1,1187 @@
 magic
-tech sky130A
-timestamp 1762641353
-<< metal4 >>
-rect 3067 22476 3097 22576
-rect 3343 22476 3373 22576
-rect 3619 22476 3649 22576
-rect 3895 22476 3925 22576
-rect 4171 22476 4201 22576
-rect 4447 22476 4477 22576
-rect 4723 22476 4753 22576
-rect 4999 22476 5029 22576
-rect 5275 22476 5305 22576
-rect 5551 22476 5581 22576
-rect 5827 22476 5857 22576
-rect 6103 22476 6133 22576
-rect 6379 22476 6409 22576
-rect 6655 22476 6685 22576
-rect 6931 22476 6961 22576
-rect 7207 22476 7237 22576
-rect 7483 22476 7513 22576
-rect 7759 22476 7789 22576
-rect 8035 22476 8065 22576
-rect 8311 22476 8341 22576
-rect 8587 22476 8617 22576
-rect 8863 22476 8893 22576
-rect 9139 22476 9169 22576
-rect 9415 22476 9445 22576
-rect 9691 22476 9721 22576
-rect 9967 22476 9997 22576
-rect 10243 22476 10273 22576
-rect 10519 22476 10549 22576
-rect 10795 22476 10825 22576
-rect 11071 22476 11101 22576
-rect 11347 22476 11377 22576
-rect 11623 22476 11653 22576
-rect 11899 22476 11929 22576
-rect 12175 22476 12205 22576
-rect 12451 22476 12481 22576
-rect 12727 22476 12757 22576
-rect 13003 22476 13033 22576
-rect 13279 22476 13309 22576
-rect 13555 22476 13585 22576
-rect 13831 22476 13861 22576
-rect 14107 22476 14137 22576
-rect 14383 22476 14413 22576
-rect 14659 22476 14689 22576
-rect 100 500 300 22076
-rect 400 500 600 22076
-rect 1657 0 1747 100
-rect 3589 0 3679 100
-rect 5521 0 5611 100
-rect 7453 0 7543 100
-rect 9385 0 9475 100
-rect 11317 0 11407 100
-rect 13249 0 13339 100
-rect 15181 0 15271 100
+tech sky130a
+timestamp 1762644065
+<< checkpaint >>
+rect 0 0 161 226
+<< l70d20 >>
+rect 122 8 123 9
+rect 126 8 127 9
+rect 130 8 131 9
+rect 134 8 135 9
+rect 122 10 136 11
+rect 124 18 136 19
+rect 121 19 141 20
+rect 116 21 121 22
+rect 122 21 137 22
+rect 135 22 136 23
+rect 1 35 137 37
+rect 1 40 137 42
+<< l71d20 >>
+rect 36 0 37 1
+rect 55 0 56 1
+rect 94 0 95 1
+rect 113 0 114 1
+rect 132 0 133 5
+rect 152 0 153 5
+rect 140 5 153 6
+rect 140 6 141 21
+rect 138 5 139 26
+rect 120 8 121 42
+rect 122 8 123 42
+rect 124 8 125 42
+rect 126 8 127 42
+rect 128 8 129 42
+rect 130 8 131 42
+rect 132 8 133 42
+rect 134 8 135 22
+rect 136 8 137 22
+rect 134 22 137 23
+rect 134 23 135 42
+rect 136 23 137 42
+rect 116 22 118 218
+rect 1 5 3 221
+rect 4 5 6 220
+rect 4 220 94 221
+rect 33 221 34 226
+rect 44 221 45 226
+rect 47 221 48 226
+rect 58 221 59 226
+rect 69 221 70 226
+rect 80 221 81 226
+rect 91 221 92 226
+rect 102 225 103 226
+rect 113 225 114 226
+rect 116 225 117 226
+rect 127 225 128 226
+rect 138 218 139 226
+<< l70d44 >>
+rect 126 8 127 9
+rect 126 10 127 11
+rect 135 22 136 23
+<< l69d20 >>
+rect 122 8 123 9
+rect 126 8 127 9
+rect 130 8 131 9
+rect 134 8 135 9
+rect 124 10 125 11
+rect 126 10 130 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 126 12 127 14
+rect 124 12 125 17
+rect 124 18 125 19
+rect 131 17 132 19
+rect 133 17 134 19
+rect 126 18 130 19
+rect 128 19 129 20
+rect 130 19 131 20
+rect 132 19 133 20
+rect 134 19 135 20
+rect 127 21 128 22
+rect 129 21 130 22
+rect 129 23 130 24
+rect 131 21 132 24
+rect 136 15 137 18
+rect 135 18 137 19
+rect 133 21 134 22
+rect 136 19 137 22
+rect 133 22 137 23
+rect 133 23 134 24
+rect 136 23 137 25
+rect 134 28 136 29
+rect 120 9 121 19
+rect 122 15 123 19
+rect 120 19 123 21
+rect 122 21 123 25
+rect 120 21 121 31
+<< l69d44 >>
+rect 126 8 127 9
+rect 124 10 125 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 121 19 122 20
+rect 130 19 131 20
+rect 132 19 133 20
+rect 134 19 135 20
+rect 135 22 136 23
+<< l68d20 >>
+rect 122 8 136 9
+rect 124 10 125 11
+rect 126 10 130 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 124 12 125 14
+rect 126 12 127 14
+rect 124 18 125 19
+rect 131 18 132 19
+rect 133 18 134 19
+rect 135 18 136 19
+rect 121 19 122 20
+rect 130 19 131 20
+rect 132 19 133 20
+rect 134 19 135 20
+rect 125 19 126 21
+rect 126 18 130 19
+rect 127 19 129 20
+rect 127 20 128 22
+rect 129 21 130 22
+rect 131 21 132 22
+rect 133 21 134 22
+rect 124 21 125 24
+rect 129 23 130 24
+rect 131 23 132 24
+rect 134 22 136 23
+rect 133 23 136 24
+rect 134 26 136 29
+rect 124 26 125 31
+rect 131 29 132 31
+rect 133 29 134 31
+rect 125 31 126 32
+rect 127 31 128 32
+<< l68d44 >>
+rect 134 8 135 9
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 121 19 122 20
+rect 132 19 133 20
+rect 134 19 135 20
+<< l235d4 >>
+rect 0 0 161 226
+<< l71d16 >>
+rect 36 0 37 1
+rect 55 0 56 1
+rect 94 0 95 1
+rect 113 0 114 1
+rect 132 0 133 1
+rect 152 0 153 1
+rect 1 5 3 221
+rect 4 5 6 221
+rect 33 225 34 226
+rect 44 225 45 226
+rect 47 225 48 226
+rect 58 225 59 226
+rect 69 225 70 226
+rect 80 225 81 226
+rect 91 225 92 226
+rect 102 225 103 226
+rect 113 225 114 226
+rect 116 225 117 226
+rect 127 225 128 226
+rect 138 225 139 226
+<< l65d44 >>
+rect 124 8 135 9
+rect 134 22 136 23
+<< l93d44 >>
+rect 124 8 136 9
+rect 123 16 136 19
+rect 123 21 136 22
+rect 123 23 136 24
+<< l64d20 >>
+rect 123 8 136 15
+rect 123 26 136 32
+<< l67d20 >>
+rect 124 8 135 9
+rect 124 10 125 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 124 12 125 14
+rect 124 18 125 19
+rect 131 18 132 19
+rect 133 18 134 19
+rect 135 18 136 19
+rect 125 19 126 20
+rect 127 19 129 20
+rect 130 19 131 20
+rect 132 19 133 20
+rect 134 19 135 20
+rect 124 21 125 22
+rect 131 21 132 22
+rect 133 21 134 22
+rect 124 23 125 24
+rect 131 23 132 24
+rect 134 22 136 23
+rect 133 23 136 24
+rect 124 26 125 28
+rect 134 26 136 28
+rect 135 28 136 29
+rect 124 29 125 31
+rect 131 29 132 31
+rect 133 29 134 31
+<< l66d44 >>
+rect 125 8 126 9
+rect 132 8 133 9
+rect 134 8 135 9
+rect 124 10 125 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 124 12 125 14
+rect 124 18 125 19
+rect 131 18 132 19
+rect 133 18 134 19
+rect 135 18 136 19
+rect 132 19 133 20
+rect 134 19 135 20
+rect 124 21 125 22
+rect 131 21 132 22
+rect 133 21 134 22
+rect 124 26 125 28
+rect 134 26 136 28
+<< l67d44 >>
+rect 125 8 126 9
+rect 127 8 128 9
+rect 132 8 133 9
+rect 134 8 135 9
+rect 124 10 125 11
+rect 131 10 132 11
+rect 133 10 134 11
+rect 135 10 136 11
+rect 124 12 125 14
+rect 124 18 125 19
+rect 131 18 132 19
+rect 133 18 134 19
+rect 135 18 136 19
+rect 132 19 133 20
+rect 134 19 135 20
+rect 124 21 125 22
+rect 131 21 132 22
+rect 133 21 134 22
+rect 124 26 125 28
+rect 134 26 136 28
+<< l94d20 >>
+rect 123 9 136 12
+rect 124 12 125 14
+rect 126 12 127 14
+rect 128 12 129 14
+rect 130 12 131 14
+rect 132 12 133 14
+rect 134 12 135 14
+rect 123 20 136 21
+rect 134 22 136 23
+rect 124 26 125 28
+rect 126 26 127 28
+rect 128 26 129 28
+rect 130 26 131 28
+rect 132 26 133 28
+rect 134 26 136 28
+rect 123 29 134 31
+<< l66d20 >>
+rect 125 9 126 12
+rect 125 18 126 20
+rect 127 9 129 12
+rect 128 12 129 18
+rect 127 18 129 20
+rect 130 9 131 20
+rect 132 9 133 20
+rect 134 9 135 20
+rect 123 21 124 22
+rect 127 21 129 22
+rect 130 21 131 22
+rect 132 21 133 22
+rect 125 21 126 24
+rect 127 23 129 24
+rect 128 24 129 28
+rect 130 23 131 28
+rect 132 23 133 28
+rect 135 28 136 29
+rect 123 29 124 31
+rect 125 29 126 31
+rect 127 29 129 31
+rect 130 29 131 31
+rect 132 29 133 31
+<< l65d20 >>
+rect 124 9 136 11
+rect 124 12 125 14
+rect 126 12 127 14
+rect 128 12 129 14
+rect 130 12 131 14
+rect 132 12 133 14
+rect 134 12 135 14
+rect 124 16 125 17
+rect 126 16 127 17
+rect 128 16 135 17
+rect 124 18 136 19
+rect 123 21 134 22
+rect 124 23 136 24
+rect 124 26 125 28
+rect 126 26 127 28
+rect 128 26 129 28
+rect 130 26 131 28
+rect 132 26 133 28
+rect 134 26 136 28
+rect 123 29 134 31
+<< l95d20 >>
+rect 125 19 126 20
+rect 127 19 129 20
+rect 130 19 131 20
+rect 132 19 133 20
+rect 134 19 135 20
+rect 127 24 128 25
+rect 135 28 136 29
+rect 123 31 124 32
+rect 125 31 126 32
+rect 127 31 129 32
+rect 130 31 131 32
+rect 132 31 133 32
+<< l125d44 >>
+rect 124 9 136 12
+rect 124 12 125 14
+rect 126 12 127 14
+rect 128 12 129 14
+rect 130 12 131 14
+rect 132 12 133 14
+rect 134 12 135 14
+rect 124 16 125 18
+rect 126 16 127 18
+rect 128 16 129 18
+rect 130 16 131 18
+rect 132 16 135 18
+rect 124 18 136 19
+rect 123 21 134 22
+rect 124 23 134 24
+rect 124 26 125 28
+rect 126 26 127 28
+rect 128 26 129 28
+rect 130 26 131 28
+rect 132 26 133 28
+rect 123 29 134 31
+<< l70d16 >>
+rect 116 21 121 22
 << labels >>
-flabel metal4 s 14383 22476 14413 22576 0 FreeSans 240 90 0 0 clk
-port 0 nsew signal input
-flabel metal4 s 14659 22476 14689 22576 0 FreeSans 240 90 0 0 ena
-port 1 nsew signal input
-flabel metal4 s 14107 22476 14137 22576 0 FreeSans 240 90 0 0 rst_n
-port 2 nsew signal input
-flabel metal4 s 15181 0 15271 100 0 FreeSans 480 0 0 0 ua[0]
-port 3 nsew signal bidirectional
-flabel metal4 s 13249 0 13339 100 0 FreeSans 480 0 0 0 ua[1]
-port 4 nsew signal bidirectional
-flabel metal4 s 11317 0 11407 100 0 FreeSans 480 0 0 0 ua[2]
-port 5 nsew signal bidirectional
-flabel metal4 s 9385 0 9475 100 0 FreeSans 480 0 0 0 ua[3]
-port 6 nsew signal bidirectional
-flabel metal4 s 7453 0 7543 100 0 FreeSans 480 0 0 0 ua[4]
-port 7 nsew signal bidirectional
-flabel metal4 s 5521 0 5611 100 0 FreeSans 480 0 0 0 ua[5]
-port 8 nsew signal bidirectional
-flabel metal4 s 3589 0 3679 100 0 FreeSans 480 0 0 0 ua[6]
-port 9 nsew signal bidirectional
-flabel metal4 s 1657 0 1747 100 0 FreeSans 480 0 0 0 ua[7]
-port 10 nsew signal bidirectional
-flabel metal4 s 13831 22476 13861 22576 0 FreeSans 240 90 0 0 ui_in[0]
-port 11 nsew signal input
-flabel metal4 s 13555 22476 13585 22576 0 FreeSans 240 90 0 0 ui_in[1]
-port 12 nsew signal input
-flabel metal4 s 13279 22476 13309 22576 0 FreeSans 240 90 0 0 ui_in[2]
-port 13 nsew signal input
-flabel metal4 s 13003 22476 13033 22576 0 FreeSans 240 90 0 0 ui_in[3]
-port 14 nsew signal input
-flabel metal4 s 12727 22476 12757 22576 0 FreeSans 240 90 0 0 ui_in[4]
-port 15 nsew signal input
-flabel metal4 s 12451 22476 12481 22576 0 FreeSans 240 90 0 0 ui_in[5]
-port 16 nsew signal input
-flabel metal4 s 12175 22476 12205 22576 0 FreeSans 240 90 0 0 ui_in[6]
-port 17 nsew signal input
-flabel metal4 s 11899 22476 11929 22576 0 FreeSans 240 90 0 0 ui_in[7]
-port 18 nsew signal input
-flabel metal4 s 11623 22476 11653 22576 0 FreeSans 240 90 0 0 uio_in[0]
-port 19 nsew signal input
-flabel metal4 s 11347 22476 11377 22576 0 FreeSans 240 90 0 0 uio_in[1]
-port 20 nsew signal input
-flabel metal4 s 11071 22476 11101 22576 0 FreeSans 240 90 0 0 uio_in[2]
-port 21 nsew signal input
-flabel metal4 s 10795 22476 10825 22576 0 FreeSans 240 90 0 0 uio_in[3]
-port 22 nsew signal input
-flabel metal4 s 10519 22476 10549 22576 0 FreeSans 240 90 0 0 uio_in[4]
-port 23 nsew signal input
-flabel metal4 s 10243 22476 10273 22576 0 FreeSans 240 90 0 0 uio_in[5]
-port 24 nsew signal input
-flabel metal4 s 9967 22476 9997 22576 0 FreeSans 240 90 0 0 uio_in[6]
-port 25 nsew signal input
-flabel metal4 s 9691 22476 9721 22576 0 FreeSans 240 90 0 0 uio_in[7]
-port 26 nsew signal input
-flabel metal4 s 4999 22476 5029 22576 0 FreeSans 240 90 0 0 uio_oe[0]
-port 27 nsew signal output
-flabel metal4 s 4723 22476 4753 22576 0 FreeSans 240 90 0 0 uio_oe[1]
-port 28 nsew signal output
-flabel metal4 s 4447 22476 4477 22576 0 FreeSans 240 90 0 0 uio_oe[2]
-port 29 nsew signal output
-flabel metal4 s 4171 22476 4201 22576 0 FreeSans 240 90 0 0 uio_oe[3]
-port 30 nsew signal output
-flabel metal4 s 3895 22476 3925 22576 0 FreeSans 240 90 0 0 uio_oe[4]
-port 31 nsew signal output
-flabel metal4 s 3619 22476 3649 22576 0 FreeSans 240 90 0 0 uio_oe[5]
-port 32 nsew signal output
-flabel metal4 s 3343 22476 3373 22576 0 FreeSans 240 90 0 0 uio_oe[6]
-port 33 nsew signal output
-flabel metal4 s 3067 22476 3097 22576 0 FreeSans 240 90 0 0 uio_oe[7]
-port 34 nsew signal output
-flabel metal4 s 7207 22476 7237 22576 0 FreeSans 240 90 0 0 uio_out[0]
-port 35 nsew signal output
-flabel metal4 s 6931 22476 6961 22576 0 FreeSans 240 90 0 0 uio_out[1]
-port 36 nsew signal output
-flabel metal4 s 6655 22476 6685 22576 0 FreeSans 240 90 0 0 uio_out[2]
-port 37 nsew signal output
-flabel metal4 s 6379 22476 6409 22576 0 FreeSans 240 90 0 0 uio_out[3]
-port 38 nsew signal output
-flabel metal4 s 6103 22476 6133 22576 0 FreeSans 240 90 0 0 uio_out[4]
-port 39 nsew signal output
-flabel metal4 s 5827 22476 5857 22576 0 FreeSans 240 90 0 0 uio_out[5]
-port 40 nsew signal output
-flabel metal4 s 5551 22476 5581 22576 0 FreeSans 240 90 0 0 uio_out[6]
-port 41 nsew signal output
-flabel metal4 s 5275 22476 5305 22576 0 FreeSans 240 90 0 0 uio_out[7]
-port 42 nsew signal output
-flabel metal4 s 9415 22476 9445 22576 0 FreeSans 240 90 0 0 uo_out[0]
-port 43 nsew signal output
-flabel metal4 s 9139 22476 9169 22576 0 FreeSans 240 90 0 0 uo_out[1]
-port 44 nsew signal output
-flabel metal4 s 8863 22476 8893 22576 0 FreeSans 240 90 0 0 uo_out[2]
-port 45 nsew signal output
-flabel metal4 s 8587 22476 8617 22576 0 FreeSans 240 90 0 0 uo_out[3]
-port 46 nsew signal output
-flabel metal4 s 8311 22476 8341 22576 0 FreeSans 240 90 0 0 uo_out[4]
-port 47 nsew signal output
-flabel metal4 s 8035 22476 8065 22576 0 FreeSans 240 90 0 0 uo_out[5]
-port 48 nsew signal output
-flabel metal4 s 7759 22476 7789 22576 0 FreeSans 240 90 0 0 uo_out[6]
-port 49 nsew signal output
-flabel metal4 s 7483 22476 7513 22576 0 FreeSans 240 90 0 0 uo_out[7]
-port 50 nsew signal output
-flabel metal4 100 500 300 22076 1 FreeSans 200 0 0 0 VDPWR
-port 51 nsew power bidirectional
-flabel metal4 400 500 600 22076 1 FreeSans 200 0 0 0 VGND
-port 52 nsew ground bidirectional
-<< properties >>
-string FIXED_BBOX 0 0 16100 22576
+rlabel l70d20 127.43 29.96 127.43 29.96 0 vdd
+rlabel l70d20 129.38 29.96 129.38 29.96 0 vdd
+rlabel l70d20 131.33 29.96 131.33 29.96 0 vdd
+rlabel l70d20 124.01 10.46 124.01 10.46 0 vdd
+rlabel l70d20 125.96 10.46 125.96 10.46 0 vdd
+rlabel l70d20 127.91 10.46 127.91 10.46 0 vdd
+rlabel l70d20 129.86 10.46 129.86 10.46 0 vdd
+rlabel l70d20 131.81 10.46 131.81 10.46 0 vdd
+rlabel l70d20 133.76 10.46 133.76 10.46 0 vdd
+rlabel l70d20 133.28 29.96 133.28 29.96 0 vdd
+rlabel l70d20 125.48 29.96 125.48 29.96 0 vdd
+rlabel l70d20 125.675 31.325 125.675 31.325 0 vctrp
+rlabel l71d16 120.61 31.925 120.61 31.925 0 vss
+rlabel l71d16 136.445 31.895 136.445 31.895 0 vss
+rlabel l70d16 122.43 19.545 122.43 19.545 0 vctrn
+rlabel l70d16 123.36 21.74 123.36 21.74 0 vss
+rlabel l70d16 122.43 20.875 122.43 20.875 0 vctrn
+rlabel l70d16 123.395 29.96 123.395 29.96 0 vdd
+rlabel l70d16 125.645 20.875 125.645 20.875 0 vctrn
+rlabel l70d16 125.6 21.74 125.6 21.74 0 vss
+rlabel l70d16 127.59 31.37 127.59 31.37 0 vctrp
+rlabel l70d16 129.54 31.37 129.54 31.37 0 vctrp
+rlabel l70d16 131.49 31.37 131.49 31.37 0 vctrp
+rlabel l70d16 123.85 9.05 123.85 9.05 0 vctrp
+rlabel l70d16 125.8 9.05 125.8 9.05 0 vctrp
+rlabel l70d16 127.75 9.05 127.75 9.05 0 vctrp
+rlabel l70d16 129.7 9.05 129.7 9.05 0 vctrp
+rlabel l70d16 131.65 9.05 131.65 9.05 0 vctrp
+rlabel l70d16 133.6 9.05 133.6 9.05 0 vctrp
+rlabel l70d16 133.44 31.37 133.44 31.37 0 vctrp
+rlabel l70d16 125.64 31.37 125.64 31.37 0 vctrp
+rlabel l70d16 127.595 20.875 127.595 20.875 0 vctrn
+rlabel l70d16 129.545 20.875 129.545 20.875 0 vctrn
+rlabel l70d16 131.495 20.875 131.495 20.875 0 vctrn
+rlabel l70d16 123.845 19.545 123.845 19.545 0 vctrn
+rlabel l70d16 125.795 19.545 125.795 19.545 0 vctrn
+rlabel l70d16 127.745 19.545 127.745 19.545 0 vctrn
+rlabel l70d16 129.695 19.545 129.695 19.545 0 vctrn
+rlabel l70d16 131.645 19.545 131.645 19.545 0 vctrn
+rlabel l70d16 133.595 19.545 133.595 19.545 0 vctrn
+rlabel l70d16 133.445 20.875 133.445 20.875 0 vctrn
+rlabel l70d16 125.645 20.875 125.645 20.875 0 vctrn
+rlabel l70d16 127.55 21.74 127.55 21.74 0 vss
+rlabel l70d16 129.5 21.74 129.5 21.74 0 vss
+rlabel l70d16 131.45 21.74 131.45 21.74 0 vss
+rlabel l70d16 123.89 18.68 123.89 18.68 0 vss
+rlabel l70d16 125.84 18.68 125.84 18.68 0 vss
+rlabel l70d16 127.79 18.68 127.79 18.68 0 vss
+rlabel l70d16 129.74 18.68 129.74 18.68 0 vss
+rlabel l70d16 131.69 18.68 131.69 18.68 0 vss
+rlabel l70d16 133.64 18.68 133.64 18.68 0 vss
+rlabel l70d16 133.4 21.74 133.4 21.74 0 vss
+rlabel l70d16 125.6 21.74 125.6 21.74 0 vss
+rlabel l71d5 120.61 31.79 120.61 31.79 0 vss
+rlabel l71d5 136.445 31.76 136.445 31.76 0 vss
+rlabel l71d5 143.98 225.26 143.98 225.26 0 clk
+rlabel l71d5 146.74 225.26 146.74 225.26 0 ena
+rlabel l71d5 141.22 225.26 141.22 225.26 0 rst_n
+rlabel l71d5 152.26 0.5 152.26 0.5 0 ua[0]
+rlabel l71d5 132.94 0.5 132.94 0.5 0 ua[1]
+rlabel l71d5 113.62 0.5 113.62 0.5 0 ua[2]
+rlabel l71d5 94.3 0.5 94.3 0.5 0 ua[3]
+rlabel l71d5 74.98 0.5 74.98 0.5 0 ua[4]
+rlabel l71d5 55.66 0.5 55.66 0.5 0 ua[5]
+rlabel l71d5 36.34 0.5 36.34 0.5 0 ua[6]
+rlabel l71d5 17.02 0.5 17.02 0.5 0 ua[7]
+rlabel l71d5 138.46 225.26 138.46 225.26 0 ui_in[0]
+rlabel l71d5 135.7 225.26 135.7 225.26 0 ui_in[1]
+rlabel l71d5 132.94 225.26 132.94 225.26 0 ui_in[2]
+rlabel l71d5 130.18 225.26 130.18 225.26 0 ui_in[3]
+rlabel l71d5 127.42 225.26 127.42 225.26 0 ui_in[4]
+rlabel l71d5 124.66 225.26 124.66 225.26 0 ui_in[5]
+rlabel l71d5 121.9 225.26 121.9 225.26 0 ui_in[6]
+rlabel l71d5 119.14 225.26 119.14 225.26 0 ui_in[7]
+rlabel l71d5 116.38 225.26 116.38 225.26 0 uio_in[0]
+rlabel l71d5 113.62 225.26 113.62 225.26 0 uio_in[1]
+rlabel l71d5 110.86 225.26 110.86 225.26 0 uio_in[2]
+rlabel l71d5 108.1 225.26 108.1 225.26 0 uio_in[3]
+rlabel l71d5 105.34 225.26 105.34 225.26 0 uio_in[4]
+rlabel l71d5 102.58 225.26 102.58 225.26 0 uio_in[5]
+rlabel l71d5 99.82 225.26 99.82 225.26 0 uio_in[6]
+rlabel l71d5 97.06 225.26 97.06 225.26 0 uio_in[7]
+rlabel l71d5 50.14 225.26 50.14 225.26 0 uio_oe[0]
+rlabel l71d5 47.38 225.26 47.38 225.26 0 uio_oe[1]
+rlabel l71d5 44.62 225.26 44.62 225.26 0 uio_oe[2]
+rlabel l71d5 41.86 225.26 41.86 225.26 0 uio_oe[3]
+rlabel l71d5 39.1 225.26 39.1 225.26 0 uio_oe[4]
+rlabel l71d5 36.34 225.26 36.34 225.26 0 uio_oe[5]
+rlabel l71d5 33.58 225.26 33.58 225.26 0 uio_oe[6]
+rlabel l71d5 30.82 225.26 30.82 225.26 0 uio_oe[7]
+rlabel l71d5 72.22 225.26 72.22 225.26 0 uio_out[0]
+rlabel l71d5 69.46 225.26 69.46 225.26 0 uio_out[1]
+rlabel l71d5 66.7 225.26 66.7 225.26 0 uio_out[2]
+rlabel l71d5 63.94 225.26 63.94 225.26 0 uio_out[3]
+rlabel l71d5 61.18 225.26 61.18 225.26 0 uio_out[4]
+rlabel l71d5 58.42 225.26 58.42 225.26 0 uio_out[5]
+rlabel l71d5 55.66 225.26 55.66 225.26 0 uio_out[6]
+rlabel l71d5 52.9 225.26 52.9 225.26 0 uio_out[7]
+rlabel l71d5 94.3 225.26 94.3 225.26 0 uo_out[0]
+rlabel l71d5 91.54 225.26 91.54 225.26 0 uo_out[1]
+rlabel l71d5 88.78 225.26 88.78 225.26 0 uo_out[2]
+rlabel l71d5 86.02 225.26 86.02 225.26 0 uo_out[3]
+rlabel l71d5 83.26 225.26 83.26 225.26 0 uo_out[4]
+rlabel l71d5 80.5 225.26 80.5 225.26 0 uo_out[5]
+rlabel l71d5 77.74 225.26 77.74 225.26 0 uo_out[6]
+rlabel l71d5 74.98 225.26 74.98 225.26 0 uo_out[7]
+rlabel l71d5 2 112.88 2 112.88 0 VDPWR
+rlabel l71d5 5 112.88 5 112.88 0 VGND
+rlabel l68d16 136.64 25.935 136.64 25.935 0 out
+rlabel l68d16 122.445 24.315 122.445 24.315 0 vrst
+rlabel l68d16 123.04 31.99 123.04 31.99 0 vdd
+rlabel l68d16 123.035 20.21 123.035 20.21 0 vss
+rlabel l68d16 125.63 20.21 125.63 20.21 0 vss
+rlabel l68d16 125.67 31.99 125.67 31.99 0 vdd
+rlabel l68d16 127.515 25.115 127.515 25.115 0 out
+rlabel l68d16 129.465 25.115 129.465 25.115 0 out
+rlabel l68d16 131.415 25.115 131.415 25.115 0 out
+rlabel l68d16 123.925 15.305 123.925 15.305 0 out
+rlabel l68d16 125.875 15.305 125.875 15.305 0 out
+rlabel l68d16 127.825 15.305 127.825 15.305 0 out
+rlabel l68d16 129.775 15.305 129.775 15.305 0 out
+rlabel l68d16 131.725 15.305 131.725 15.305 0 out
+rlabel l68d16 133.675 15.305 133.675 15.305 0 out
+rlabel l68d16 133.365 25.115 133.365 25.115 0 out
+rlabel l68d16 125.565 25.115 125.565 25.115 0 out
+rlabel l68d16 127.62 31.99 127.62 31.99 0 vdd
+rlabel l68d16 129.57 31.99 129.57 31.99 0 vdd
+rlabel l68d16 131.52 31.99 131.52 31.99 0 vdd
+rlabel l68d16 123.82 8.43 123.82 8.43 0 vdd
+rlabel l68d16 125.77 8.43 125.77 8.43 0 vdd
+rlabel l68d16 127.72 8.43 127.72 8.43 0 vdd
+rlabel l68d16 129.67 8.43 129.67 8.43 0 vdd
+rlabel l68d16 131.62 8.43 131.62 8.43 0 vdd
+rlabel l68d16 133.57 8.43 133.57 8.43 0 vdd
+rlabel l68d16 133.47 31.99 133.47 31.99 0 vdd
+rlabel l68d16 125.67 31.99 125.67 31.99 0 vdd
+rlabel l68d16 127.58 20.21 127.58 20.21 0 vss
+rlabel l68d16 129.53 20.21 129.53 20.21 0 vss
+rlabel l68d16 131.48 20.21 131.48 20.21 0 vss
+rlabel l68d16 123.86 20.21 123.86 20.21 0 vss
+rlabel l68d16 125.81 20.21 125.81 20.21 0 vss
+rlabel l68d16 127.76 20.21 127.76 20.21 0 vss
+rlabel l68d16 129.71 20.21 129.71 20.21 0 vss
+rlabel l68d16 131.66 20.21 131.66 20.21 0 vss
+rlabel l68d16 133.61 20.21 133.61 20.21 0 vss
+rlabel l68d16 133.43 20.21 133.43 20.21 0 vss
+rlabel l68d16 125.63 20.21 125.63 20.21 0 vss
+rlabel l68d16 125.77 25.1 125.77 25.1 0 in
+rlabel l68d16 127.72 25.1 127.72 25.1 0 in
+rlabel l68d16 129.67 25.1 129.67 25.1 0 in
+rlabel l68d16 125.67 15.32 125.67 15.32 0 in
+rlabel l68d16 127.62 15.32 127.62 15.32 0 in
+rlabel l68d16 129.57 15.32 129.57 15.32 0 in
+rlabel l68d16 131.52 15.32 131.52 15.32 0 in
+rlabel l68d16 133.47 15.32 133.47 15.32 0 in
+rlabel l68d16 135.42 15.32 135.42 15.32 0 in
+rlabel l68d16 131.62 25.1 131.62 25.1 0 in
+rlabel l68d16 123.82 25.1 123.82 25.1 0 in
+rlabel l70d5 123.105 28.33 123.105 28.33 0 vctrp
+rlabel l70d5 122.57 19.545 122.57 19.545 0 vctrn
+rlabel l70d5 123.365 21.74 123.365 21.74 0 vss
+rlabel l70d5 122.57 20.875 122.57 20.875 0 vctrn
+rlabel l70d5 123.385 29.96 123.385 29.96 0 vdd
+rlabel l70d5 126.035 29.96 126.035 29.96 0 vdd
+rlabel l70d5 127.985 29.96 127.985 29.96 0 vdd
+rlabel l70d5 129.935 29.96 129.935 29.96 0 vdd
+rlabel l70d5 125.405 10.46 125.405 10.46 0 vdd
+rlabel l70d5 127.355 10.46 127.355 10.46 0 vdd
+rlabel l70d5 129.305 10.46 129.305 10.46 0 vdd
+rlabel l70d5 131.255 10.46 131.255 10.46 0 vdd
+rlabel l70d5 133.205 10.46 133.205 10.46 0 vdd
+rlabel l70d5 135.155 10.46 135.155 10.46 0 vdd
+rlabel l70d5 131.885 29.96 131.885 29.96 0 vdd
+rlabel l70d5 124.085 29.96 124.085 29.96 0 vdd
+rlabel l70d5 126.385 31.325 126.385 31.325 0 vctrp
+rlabel l70d5 128.335 31.325 128.335 31.325 0 vctrp
+rlabel l70d5 130.285 31.325 130.285 31.325 0 vctrp
+rlabel l70d5 125.055 9.095 125.055 9.095 0 vctrp
+rlabel l70d5 127.005 9.095 127.005 9.095 0 vctrp
+rlabel l70d5 128.955 9.095 128.955 9.095 0 vctrp
+rlabel l70d5 130.905 9.095 130.905 9.095 0 vctrp
+rlabel l70d5 132.855 9.095 132.855 9.095 0 vctrp
+rlabel l70d5 134.805 9.095 134.805 9.095 0 vctrp
+rlabel l70d5 132.235 31.325 132.235 31.325 0 vctrp
+rlabel l70d5 124.435 31.325 124.435 31.325 0 vctrp
+rlabel l70d5 126.165 21.74 126.165 21.74 0 vss
+rlabel l70d5 128.115 21.74 128.115 21.74 0 vss
+rlabel l70d5 130.065 21.74 130.065 21.74 0 vss
+rlabel l70d5 125.275 18.68 125.275 18.68 0 vss
+rlabel l70d5 127.225 18.68 127.225 18.68 0 vss
+rlabel l70d5 129.175 18.68 129.175 18.68 0 vss
+rlabel l70d5 131.125 18.68 131.125 18.68 0 vss
+rlabel l70d5 133.075 18.68 133.075 18.68 0 vss
+rlabel l70d5 135.025 18.68 135.025 18.68 0 vss
+rlabel l70d5 132.015 21.74 132.015 21.74 0 vss
+rlabel l70d5 124.215 21.74 124.215 21.74 0 vss
+rlabel l70d5 126.37 20.875 126.37 20.875 0 vctrn
+rlabel l70d5 128.32 20.875 128.32 20.875 0 vctrn
+rlabel l70d5 130.27 20.875 130.27 20.875 0 vctrn
+rlabel l70d5 125.07 19.545 125.07 19.545 0 vctrn
+rlabel l70d5 127.02 19.545 127.02 19.545 0 vctrn
+rlabel l70d5 128.97 19.545 128.97 19.545 0 vctrn
+rlabel l70d5 130.92 19.545 130.92 19.545 0 vctrn
+rlabel l70d5 132.87 19.545 132.87 19.545 0 vctrn
+rlabel l70d5 134.82 19.545 134.82 19.545 0 vctrn
+rlabel l70d5 132.22 20.875 132.22 20.875 0 vctrn
+rlabel l70d5 124.42 20.875 124.42 20.875 0 vctrn
+rlabel l68d5 136.65 26.04 136.65 26.04 0 out
+rlabel l68d5 122.64 24.315 122.64 24.315 0 vrst
+rlabel l68d5 123.205 31.99 123.205 31.99 0 vdd
+rlabel l68d5 122.985 20.21 122.985 20.21 0 vss
+rlabel l68d5 125.77 25.065 125.77 25.065 0 in
+rlabel l68d5 127.72 25.065 127.72 25.065 0 in
+rlabel l68d5 129.67 25.065 129.67 25.065 0 in
+rlabel l68d5 125.67 15.355 125.67 15.355 0 in
+rlabel l68d5 127.62 15.355 127.62 15.355 0 in
+rlabel l68d5 129.57 15.355 129.57 15.355 0 in
+rlabel l68d5 131.52 15.355 131.52 15.355 0 in
+rlabel l68d5 133.47 15.355 133.47 15.355 0 in
+rlabel l68d5 135.42 15.355 135.42 15.355 0 in
+rlabel l68d5 131.62 25.065 131.62 25.065 0 in
+rlabel l68d5 123.82 25.065 123.82 25.065 0 in
+rlabel l68d5 127.515 25.075 127.515 25.075 0 out
+rlabel l68d5 129.465 25.075 129.465 25.075 0 out
+rlabel l68d5 131.415 25.075 131.415 25.075 0 out
+rlabel l68d5 123.925 15.345 123.925 15.345 0 out
+rlabel l68d5 125.875 15.345 125.875 15.345 0 out
+rlabel l68d5 127.825 15.345 127.825 15.345 0 out
+rlabel l68d5 129.775 15.345 129.775 15.345 0 out
+rlabel l68d5 131.725 15.345 131.725 15.345 0 out
+rlabel l68d5 133.675 15.345 133.675 15.345 0 out
+rlabel l68d5 133.365 25.075 133.365 25.075 0 out
+rlabel l68d5 125.565 25.075 125.565 25.075 0 out
+rlabel l68d5 126.51 31.99 126.51 31.99 0 vdd
+rlabel l68d5 128.46 31.99 128.46 31.99 0 vdd
+rlabel l68d5 130.41 31.99 130.41 31.99 0 vdd
+rlabel l68d5 124.93 8.43 124.93 8.43 0 vdd
+rlabel l68d5 126.88 8.43 126.88 8.43 0 vdd
+rlabel l68d5 128.83 8.43 128.83 8.43 0 vdd
+rlabel l68d5 130.78 8.43 130.78 8.43 0 vdd
+rlabel l68d5 132.73 8.43 132.73 8.43 0 vdd
+rlabel l68d5 134.68 8.43 134.68 8.43 0 vdd
+rlabel l68d5 132.36 31.99 132.36 31.99 0 vdd
+rlabel l68d5 124.56 31.99 124.56 31.99 0 vdd
+rlabel l68d5 126.61 20.205 126.61 20.205 0 vss
+rlabel l68d5 128.56 20.205 128.56 20.205 0 vss
+rlabel l68d5 130.51 20.205 130.51 20.205 0 vss
+rlabel l68d5 124.83 20.215 124.83 20.215 0 vss
+rlabel l68d5 126.78 20.215 126.78 20.215 0 vss
+rlabel l68d5 128.73 20.215 128.73 20.215 0 vss
+rlabel l68d5 130.68 20.215 130.68 20.215 0 vss
+rlabel l68d5 132.63 20.215 132.63 20.215 0 vss
+rlabel l68d5 134.58 20.215 134.58 20.215 0 vss
+rlabel l68d5 132.46 20.205 132.46 20.205 0 vss
+rlabel l68d5 124.66 20.205 124.66 20.205 0 vss
+use vias_gen vias_gen_1
+timestamp 1762644065
+transform 0 -1 139 1 0 26
+box 0 0 0 0
+use vias_genx2438 vias_genx2438_1
+timestamp 1762644065
+transform 0 -1 127 1 0 40
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_2
+timestamp 1762644065
+transform 0 -1 133 1 0 35
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_3
+timestamp 1762644065
+transform 0 -1 137 1 0 35
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_4
+timestamp 1762644065
+transform 0 -1 131 1 0 40
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_5
+timestamp 1762644065
+transform 0 -1 121 1 0 35
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_6
+timestamp 1762644065
+transform 0 -1 135 1 0 40
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_7
+timestamp 1762644065
+transform 0 -1 125 1 0 35
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_8
+timestamp 1762644065
+transform 0 -1 129 1 0 35
+box 0 0 2 1
+use vias_genx2438 vias_genx2438_9
+timestamp 1762644065
+transform 0 -1 123 1 0 40
+box 0 0 2 1
+use vias_genx2432 vias_genx2432_1
+timestamp 1762644065
+transform 1 0 35 0 1 23
+box 0 0 0 0
+use vias_genx2419 vias_genx2419_1
+timestamp 1762644065
+transform 1 0 24 0 1 26
+box 0 0 0 0
+use vias_genx2411 vias_genx2411_1
+timestamp 1762644065
+transform 1 0 24 0 1 25
+box 0 0 0 0
+use vias_genx249 vias_genx249_1
+timestamp 1762644065
+transform 1 0 24 0 1 23
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_1
+timestamp 1762644065
+transform 1 0 28 0 1 26
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_2
+timestamp 1762644065
+transform 1 0 28 0 1 26
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_3
+timestamp 1762644065
+transform 1 0 23 0 1 26
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_4
+timestamp 1762644065
+transform 1 0 23 0 1 26
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_1
+timestamp 1762644065
+transform 1 0 28 0 1 24
+box 0 0 0 0
+use pfetx242 pfetx242_1
+timestamp 1762644065
+transform 1 0 24 0 1 23
+box 0 0 0 0
+use vias_genx2419 vias_genx2419_2
+timestamp 1762644065
+transform 1 0 25 0 1 26
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_1
+timestamp 1762644065
+transform 1 0 22 0 1 25
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_5
+timestamp 1762644065
+transform 1 0 35 0 1 26
+box 0 0 0 0
+use vias_genx2437 vias_genx2437_1
+timestamp 1762644065
+transform 0 -1 6 1 0 35
+box 0 0 2 2
+use vias_genx2437 vias_genx2437_2
+timestamp 1762644065
+transform 0 -1 3 1 0 40
+box 0 0 2 2
+use vias_genx2426 vias_genx2426_6
+timestamp 1762644065
+transform 1 0 35 0 1 26
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_7
+timestamp 1762644065
+transform 1 0 32 0 1 26
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_8
+timestamp 1762644065
+transform 1 0 32 0 1 26
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_2
+timestamp 1762644065
+transform 1 0 35 0 1 24
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_3
+timestamp 1762644065
+transform 1 0 32 0 1 24
+box 0 0 0 0
+use vias_genx2431 vias_genx2431_1
+timestamp 1762644065
+transform 1 0 36 0 1 23
+box 0 0 0 0
+use vias_genx2430 vias_genx2430_1
+timestamp 1762644065
+transform 1 0 36 0 1 23
+box 0 0 0 0
+use nfet nfet_1
+timestamp 1762644065
+transform 1 0 37 0 1 17
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_1
+timestamp 1762644065
+transform 1 0 37 0 1 18
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_2
+timestamp 1762644065
+transform 1 0 37 0 1 17
+box 0 0 0 0
+use pfet pfet_1
+timestamp 1762644065
+transform 1 0 37 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_3
+timestamp 1762644065
+transform 1 0 37 0 1 22
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__1
+timestamp 1762644065
+transform -1 0 37 0 -1 15
+box 0 0 0 0
+use vias_genx2435 vias_genx2435_1
+timestamp 1762644065
+transform 1 0 37 0 1 16
+box 0 0 0 0
+use vias_genx247 vias_genx247_1
+timestamp 1762644065
+transform 1 0 37 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_4
+timestamp 1762644065
+transform 1 0 37 0 1 20
+box 0 0 0 0
+use vias_genx247 vias_genx247_2
+timestamp 1762644065
+transform 1 0 37 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_5
+timestamp 1762644065
+transform 1 0 37 0 1 20
+box 0 0 0 0
+use vias_genx2424 vias_genx2424_1
+timestamp 1762644065
+transform 1 0 38 0 1 19
+box 0 0 0 0
+use nfet nfet_2
+timestamp 1762644065
+transform 1 0 36 0 1 17
+box 0 0 0 0
+use vias_genx247 vias_genx247_3
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_6
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use pfet pfet_2
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_7
+timestamp 1762644065
+transform 1 0 35 0 1 22
+box 0 0 0 0
+use vias_genx247 vias_genx247_4
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_8
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_9
+timestamp 1762644065
+transform 1 0 36 0 1 18
+box 0 0 0 0
+use vias_genx244 vias_genx244_1
+timestamp 1762644065
+transform 1 0 36 0 1 22
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_10
+timestamp 1762644065
+transform 1 0 36 0 1 22
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__2
+timestamp 1762644065
+transform -1 0 33 0 -1 15
+box 0 0 0 0
+use nfet nfet_3
+timestamp 1762644065
+transform 1 0 35 0 1 17
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__3
+timestamp 1762644065
+transform -1 0 35 0 -1 15
+box 0 0 0 0
+use vias_genx245 vias_genx245_1
+timestamp 1762644065
+transform 1 0 36 0 1 19
+box 0 0 0 0
+use vias_genx2431 vias_genx2431_2
+timestamp 1762644065
+transform 1 0 36 0 1 16
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_11
+timestamp 1762644065
+transform 1 0 36 0 1 17
+box 0 0 0 0
+use vias_genx2433 vias_genx2433_1
+timestamp 1762644065
+transform 1 0 36 0 1 16
+box 0 0 0 0
+use pfet pfet_3
+timestamp 1762644065
+transform 1 0 36 0 1 20
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_12
+timestamp 1762644065
+transform 1 0 35 0 1 18
+box 0 0 0 0
+use nfet nfet_4
+timestamp 1762644065
+transform 1 0 36 0 1 17
+box 0 0 0 0
+use pfet pfet_4
+timestamp 1762644065
+transform 1 0 35 0 1 20
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__4
+timestamp 1762644065
+transform -1 0 29 0 -1 15
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__5
+timestamp 1762644065
+transform -1 0 31 0 -1 15
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__6
+timestamp 1762644065
+transform 1 0 33 0 1 14
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__7
+timestamp 1762644065
+transform 1 0 25 0 1 14
+box 0 0 0 0
+use nfetx243 nfetx243_1
+timestamp 1762644065
+transform 1 0 24 0 1 15
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_9
+timestamp 1762644065
+transform 1 0 33 0 1 14
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_10
+timestamp 1762644065
+transform 1 0 30 0 1 14
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_11
+timestamp 1762644065
+transform 1 0 26 0 1 14
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_4
+timestamp 1762644065
+transform 1 0 30 0 1 16
+box 0 0 0 0
+use nfetx243 nfetx243_2
+timestamp 1762644065
+transform 1 0 26 0 1 17
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_1
+timestamp 1762644065
+transform 1 0 29 0 1 18
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_5
+timestamp 1762644065
+transform 1 0 30 0 1 13
+box 0 0 0 0
+use nfetx244 nfetx244_1
+timestamp 1762644065
+transform 1 0 28 0 1 17
+box 0 0 0 0
+use vias_genx2429 vias_genx2429_13
+timestamp 1762644065
+transform 1 0 35 0 1 20
+box 0 0 0 0
+use vias_genx248 vias_genx248_1
+timestamp 1762644065
+transform 1 0 24 0 1 16
+box 0 0 0 0
+use vias_genx248 vias_genx248_2
+timestamp 1762644065
+transform 1 0 27 0 1 17
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_1
+timestamp 1762644065
+transform 1 0 29 0 1 17
+box 0 0 0 0
+use nfetx242 nfetx242_1
+timestamp 1762644065
+transform 1 0 34 0 1 17
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_6
+timestamp 1762644065
+transform 1 0 26 0 1 16
+box 0 0 0 0
+use vias_genx2413 vias_genx2413_1
+timestamp 1762644065
+transform 1 0 26 0 1 15
+box 0 0 0 0
+use vias_genx2413 vias_genx2413_2
+timestamp 1762644065
+transform 1 0 28 0 1 15
+box 0 0 0 0
+use vias_genx2424 vias_genx2424_2
+timestamp 1762644065
+transform 1 0 24 0 1 19
+box 0 0 0 0
+use vias_genx2425 vias_genx2425_1
+timestamp 1762644065
+transform 1 0 22 0 1 18
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_2
+timestamp 1762644065
+transform 1 0 33 0 1 17
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_2
+timestamp 1762644065
+transform 1 0 24 0 1 15
+box 0 0 0 0
+use vias_genx2420 vias_genx2420_1
+timestamp 1762644065
+transform 1 0 24 0 1 15
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_3
+timestamp 1762644065
+transform 1 0 23 0 1 15
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_4
+timestamp 1762644065
+transform 1 0 22 0 1 15
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_5
+timestamp 1762644065
+transform 1 0 24 0 1 17
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_7
+timestamp 1762644065
+transform 1 0 26 0 1 13
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_6
+timestamp 1762644065
+transform 1 0 23 0 1 13
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_8
+timestamp 1762644065
+transform 1 0 33 0 1 13
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__8
+timestamp 1762644065
+transform 1 0 27 0 1 14
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__9
+timestamp 1762644065
+transform 1 0 29 0 1 14
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__10
+timestamp 1762644065
+transform 1 0 31 0 1 14
+box 0 0 0 0
+use vias_genx2418 vias_genx2418_1
+timestamp 1762644065
+transform 1 0 25 0 1 14
+box 0 0 0 0
+use vias_genx2418 vias_genx2418_2
+timestamp 1762644065
+transform 1 0 24 0 1 14
+box 0 0 0 0
+use rvco_11st_curstav_ rvco_11st_curstav__11
+timestamp 1762644065
+transform -1 0 27 0 -1 15
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_3
+timestamp 1762644065
+transform 1 0 35 0 1 17
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_4
+timestamp 1762644065
+transform 1 0 31 0 1 17
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_2
+timestamp 1762644065
+transform 1 0 32 0 1 18
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_9
+timestamp 1762644065
+transform 1 0 33 0 1 16
+box 0 0 0 0
+use nfetx242 nfetx242_2
+timestamp 1762644065
+transform 1 0 30 0 1 17
+box 0 0 0 0
+use nfetx244 nfetx244_2
+timestamp 1762644065
+transform 1 0 32 0 1 17
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_5
+timestamp 1762644065
+transform -1 0 27 0 -1 11
+box 0 0 0 0
+use nfetx242 nfetx242_3
+timestamp 1762644065
+transform -1 0 30 0 -1 12
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_6
+timestamp 1762644065
+transform -1 0 25 0 -1 11
+box 0 0 0 0
+use nfetx245 nfetx245_1
+timestamp 1762644065
+transform -1 0 26 0 -1 12
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_7
+timestamp 1762644065
+transform -1 0 31 0 -1 11
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_8
+timestamp 1762644065
+transform -1 0 35 0 -1 11
+box 0 0 0 0
+use nfetx242 nfetx242_4
+timestamp 1762644065
+transform -1 0 34 0 -1 12
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_3
+timestamp 1762644065
+transform -1 0 32 0 -1 10
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_10
+timestamp 1762644065
+transform 1 0 35 0 -1 5
+box 0 0 0 0
+use vias_genx2424 vias_genx2424_3
+timestamp 1762644065
+transform 1 0 24 0 1 9
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_12
+timestamp 1762644065
+transform 1 0 35 0 -1 3
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_13
+timestamp 1762644065
+transform 1 0 35 0 -1 3
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_11
+timestamp 1762644065
+transform 1 0 32 0 -1 5
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_14
+timestamp 1762644065
+transform 1 0 32 0 -1 3
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_15
+timestamp 1762644065
+transform 1 0 32 0 -1 3
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_4
+timestamp 1762644065
+transform -1 0 35 0 -1 10
+box 0 0 0 0
+use nfetx244 nfetx244_3
+timestamp 1762644065
+transform -1 0 32 0 -1 12
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_9
+timestamp 1762644065
+transform -1 0 33 0 -1 11
+box 0 0 0 0
+use nfetx244 nfetx244_4
+timestamp 1762644065
+transform -1 0 36 0 -1 12
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_12
+timestamp 1762644065
+transform 1 0 28 0 -1 5
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_16
+timestamp 1762644065
+transform 1 0 28 0 -1 3
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_17
+timestamp 1762644065
+transform 1 0 28 0 -1 3
+box 0 0 0 0
+use vias_genx2428 vias_genx2428_13
+timestamp 1762644065
+transform 1 0 23 0 -1 5
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_18
+timestamp 1762644065
+transform 1 0 23 0 -1 3
+box 0 0 0 0
+use vias_genx2426 vias_genx2426_19
+timestamp 1762644065
+transform 1 0 23 0 -1 3
+box 0 0 0 0
+use nfetx244 nfetx244_5
+timestamp 1762644065
+transform -1 0 28 0 -1 12
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_5
+timestamp 1762644065
+transform -1 0 26 0 -1 10
+box 0 0 0 0
+use vias_genx2425 vias_genx2425_2
+timestamp 1762644065
+transform 1 0 22 0 1 10
+box 0 0 0 0
+use vias_genx2410 vias_genx2410_10
+timestamp 1762644065
+transform -1 0 29 0 -1 11
+box 0 0 0 0
+use vias_genx2423 vias_genx2423_7
+timestamp 1762644065
+transform 1 0 22 0 1 3
+box 0 0 0 0
+use vias_genx2416 vias_genx2416_6
+timestamp 1762644065
+transform -1 0 28 0 -1 10
+box 0 0 0 0
+use vias_genx2424 vias_genx2424_4
+timestamp 1762644065
+transform 1 0 38 0 1 9
+box 0 0 0 0
+use vias_genx2439 vias_genx2439_1
+timestamp 1762644065
+transform 0 -1 118 1 0 21
+box 0 0 1 2
+use vias_genx2436 vias_genx2436_1
+timestamp 1762644065
+transform 0 -1 141 1 0 19
+box 0 0 0 0
+use vias_genx2436 vias_genx2436_2
+timestamp 1762644065
+transform 0 -1 141 1 0 21
+box 0 0 0 0
 << end >>
