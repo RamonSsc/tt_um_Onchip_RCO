@@ -1,0 +1,482 @@
+* Extracted by KLayout with SKY130 LVS runset on : 08/11/2025 23:37
+
+.SUBCKT nfet$5
+.ENDS nfet$5
+
+.SUBCKT vias_gen$18
+.ENDS vias_gen$18
+
+.SUBCKT vias_gen$20
+.ENDS vias_gen$20
+
+.SUBCKT vias_gen$25
+.ENDS vias_gen$25
+
+.SUBCKT vias_gen$13
+.ENDS vias_gen$13
+
+.SUBCKT nfet$2
+.ENDS nfet$2
+
+.SUBCKT vias_gen$10
+.ENDS vias_gen$10
+
+.SUBCKT vias_gen$8
+.ENDS vias_gen$8
+
+.SUBCKT nfet$4
+.ENDS nfet$4
+
+.SUBCKT vias_gen$16
+.ENDS vias_gen$16
+
+.SUBCKT nfet$3
+.ENDS nfet$3
+
+.SUBCKT vias_gen$33
+.ENDS vias_gen$33
+
+.SUBCKT vias_gen$5
+.ENDS vias_gen$5
+
+.SUBCKT vias_gen$24
+.ENDS vias_gen$24
+
+.SUBCKT vias_gen$7
+.ENDS vias_gen$7
+
+.SUBCKT vias_gen$35
+.ENDS vias_gen$35
+
+.SUBCKT rvco_11st_curstav_
+.ENDS rvco_11st_curstav_
+
+.SUBCKT pfet
+.ENDS pfet
+
+.SUBCKT nfet
+.ENDS nfet
+
+.SUBCKT vias_gen$30
+.ENDS vias_gen$30
+
+.SUBCKT vias_gen$31
+.ENDS vias_gen$31
+
+.SUBCKT vias_gen$29
+.ENDS vias_gen$29
+
+.SUBCKT vias_gen$4
+.ENDS vias_gen$4
+
+.SUBCKT vias_gen$23
+.ENDS vias_gen$23
+
+.SUBCKT pfet$2
+.ENDS pfet$2
+
+.SUBCKT vias_gen$28
+.ENDS vias_gen$28
+
+.SUBCKT vias_gen$26
+.ENDS vias_gen$26
+
+.SUBCKT vias_gen$9
+.ENDS vias_gen$9
+
+.SUBCKT vias_gen$11
+.ENDS vias_gen$11
+
+.SUBCKT vias_gen$19
+.ENDS vias_gen$19
+
+.SUBCKT vias_gen$32
+.ENDS vias_gen$32
+
+.SUBCKT tt_um_Onchip_RCO
+X$1 out|ua[1] vias_gen
+X$2 ua[0]|vctrn vias_gen$36
+X$3 ua[0]|vctrn vias_gen$36
+X$4 VDPWR|vdd vias_gen$37
+X$5 VDPWR|vdd vias_gen$38
+X$6 VDPWR|vdd vias_gen$38
+X$7 VDPWR|vdd vias_gen$38
+X$8 VDPWR|vdd vias_gen$38
+X$9
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$38
+X$10
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$38
+X$11
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$38
+X$12
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$38
+X$13
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$38
+X$14
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ vias_gen$37
+X$15 ui_in[0]|vrst vias_gen$39
+M$1 \$50 in|out VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8 L=0.15 W=2 AS=0.6
++ AD=0.3 PS=4.6 PD=2.3
+M$2 VDPWR|vdd \$50 out|ua[1] VDPWR|vdd sky130_fd_pr__pfet_01v8 L=0.15 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$3 out|ua[1] \$50 VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8 L=0.15 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$4 VDPWR|vdd \$50 out|ua[1] VDPWR|vdd sky130_fd_pr__pfet_01v8 L=0.15 W=2
++ AS=0.3 AD=0.6 PS=2.3 PD=4.6
+M$5 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.6 AD=0.3 PS=4.6 PD=2.3
+M$6 VDPWR|vdd vctrp \$16 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$7 \$16 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$8 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$9 VDPWR|vdd vctrp \$17 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$10 \$17 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$11 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$12 VDPWR|vdd vctrp \$15 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$13 \$15 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$14 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$15 VDPWR|vdd vctrp \$18 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$16 \$18 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$17 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$18 VDPWR|vdd vctrp \$19 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$19 \$19 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$20 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$21 VDPWR|vdd vctrp \$20 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$22 \$20 VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.6 PS=2.3 PD=4.6
+M$23 \$56 in|out in|out VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$24 in|out in|out \$16 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$25 in|out in|out \$17 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$26 \$52 in|out in|out VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$27 in|out in|out \$15 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$28 \$53 in|out in|out VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$29 \$54 in|out in|out VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$30 in|out in|out \$18 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$31 \$55 in|out in|out VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$32 in|out in|out \$19 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$33 in|out in|out \$20 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2 AS=0.6
++ AD=0.6 PS=4.6 PD=4.6
+M$34 vctrp vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.6 AD=0.3 PS=4.6 PD=2.3
+M$35 VDPWR|vdd VDPWR|vdd \$56 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$36 \$56 vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$37 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$38 VDPWR|vdd VDPWR|vdd \$52 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$39 \$52 vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$40 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$41 VDPWR|vdd VDPWR|vdd \$53 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$42 \$53 vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$43 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$44 VDPWR|vdd VDPWR|vdd \$54 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$45 \$54 vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$46 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$47 VDPWR|vdd VDPWR|vdd \$55 VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$48 \$55 vctrp VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35 W=2
++ AS=0.3 AD=0.3 PS=2.3 PD=2.3
+M$49 VDPWR|vdd VDPWR|vdd VDPWR|vdd VDPWR|vdd sky130_fd_pr__pfet_01v8_lvt L=0.35
++ W=2 AS=0.3 AD=0.6 PS=2.3 PD=4.6
+M$50 \$50 in|out
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8 L=0.15 W=1 AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$51
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$50 out|ua[1] sky130_gnd sky130_fd_pr__nfet_01v8 L=0.15 W=1 AS=0.15 AD=0.15
++ PS=1.3 PD=1.3
+M$52 out|ua[1] \$50
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8 L=0.15 W=1 AS=0.15 AD=0.15 PS=1.3 PD=1.3
+M$53
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$50 out|ua[1] sky130_gnd sky130_fd_pr__nfet_01v8 L=0.15 W=1 AS=0.15 AD=0.3
++ PS=1.3 PD=2.6
+M$54
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ui_in[0]|vrst in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3
++ AD=0.15 PS=2.6 PD=1.3
+M$55 in|out in|out \$29 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$56
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ui_in[0]|vrst in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3
++ AD=0.15 PS=2.6 PD=1.3
+M$57 in|out in|out \$30 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$58
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3 AD=0.15
++ PS=2.6 PD=1.3
+M$59 in|out in|out \$31 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$60
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ui_in[0]|vrst in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3
++ AD=0.15 PS=2.6 PD=1.3
+M$61 in|out in|out \$32 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$62
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3 AD=0.15
++ PS=2.6 PD=1.3
+M$63 in|out in|out \$33 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$64
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ui_in[0]|vrst in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3
++ AD=0.15 PS=2.6 PD=1.3
+M$65 in|out in|out \$34 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$66
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$67
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$29 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$68 \$29
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$69
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$70
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$30 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$71 \$30
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$72
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$73
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$31 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$74 \$31
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$75
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$76
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$32 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$77 \$32
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$78
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$79
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$33 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$80 \$33
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$81
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$82
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ ua[0]|vctrn \$34 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15
++ AD=0.15 PS=1.3 PD=1.3
+M$83 \$34
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$84 vctrp ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$85
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$38 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$86 \$38 ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$87
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$88
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$37 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$89 \$37 ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$90
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$91
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$39 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$92 \$39 ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$93
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$94
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$40 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$95 \$40 ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$96
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$97
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ \$41 sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$98 \$41 ua[0]|vctrn
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.15 PS=1.3
++ PD=1.3
+M$99
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$100 \$38 in|out in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$101 in|out
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$102 \$37 in|out in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$103 in|out ui_in[0]|vrst
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$104 \$39 in|out in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$105 in|out
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$106 \$40 in|out in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$107 in|out ui_in[0]|vrst
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+M$108 \$41 in|out in|out sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1
++ AS=0.3 AD=0.15 PS=2.6 PD=1.3
+M$109 in|out
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ VGND|uio_oe[0]|uio_oe[1]|uio_oe[2]|uio_oe[3]|uio_oe[4]|uio_oe[5]|uio_oe[6]|uio_oe[7]|uio_out[0]|uio_out[1]|uio_out[2]|uio_out[3]|uio_out[4]|uio_out[5]|uio_out[6]|uio_out[7]|uo_out[0]|uo_out[1]|uo_out[2]|uo_out[3]|uo_out[4]|uo_out[5]|uo_out[6]|uo_out[7]|vss
++ sky130_gnd sky130_fd_pr__nfet_01v8_lvt L=0.35 W=1 AS=0.15 AD=0.3 PS=1.3 PD=2.6
+.ENDS tt_um_Onchip_RCO
+
+.SUBCKT vias_gen$36 \$1
+.ENDS vias_gen$36
+
+.SUBCKT vias_gen$39 \$1
+.ENDS vias_gen$39
+
+.SUBCKT vias_gen$37 \$1
+.ENDS vias_gen$37
+
+.SUBCKT vias_gen$38 \$1
+.ENDS vias_gen$38
+
+.SUBCKT vias_gen \$1
+.ENDS vias_gen
