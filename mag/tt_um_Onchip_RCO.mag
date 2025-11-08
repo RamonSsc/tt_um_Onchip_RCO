@@ -1,6 +1,6 @@
 magic
 tech sky130a
-timestamp 1762644690
+timestamp 1762645100
 << checkpaint >>
 rect 0 0 161 226
 << l70d20 >>
@@ -117,8 +117,11 @@ rect 4 35 6 37
 rect 1 40 3 42
 rect 116 21 118 22
 rect 140 19 141 20
-rect 132 1 133 5
+rect 132 0 133 5
 rect 138 5 139 26
+rect 152 0 153 5
+rect 140 5 153 6
+rect 140 6 141 21
 rect 134 8 135 42
 rect 132 8 133 42
 rect 130 8 131 42
@@ -127,9 +130,6 @@ rect 126 8 127 42
 rect 124 8 125 42
 rect 122 8 123 42
 rect 120 8 121 42
-rect 152 1 153 5
-rect 140 5 153 6
-rect 140 6 141 21
 rect 138 218 139 225
 rect 116 22 118 218
 rect 4 220 94 221
