@@ -26,7 +26,6 @@ MACRO tt_um_Onchip_RCO
     END
   END rst_n
   PIN ua[0]
-    ANTENNAGATEAREA 4.200000 ;
     PORT
       LAYER met4 ;
         RECT 151.810 0.000 152.710 1.000 ;
@@ -709,6 +708,18 @@ MACRO tt_um_Onchip_RCO
     ANTENNADIFFAREA 0.900000 ;
     PORT
       LAYER met3 ;
+        RECT 127.585 31.365 127.595 31.375 ;
+    END
+    PORT
+      LAYER met3 ;
+        RECT 129.535 31.365 129.545 31.375 ;
+    END
+    PORT
+      LAYER met3 ;
+        RECT 131.485 31.365 131.495 31.375 ;
+    END
+    PORT
+      LAYER met3 ;
         RECT 123.845 9.045 123.855 9.055 ;
     END
     PORT
@@ -730,6 +741,14 @@ MACRO tt_um_Onchip_RCO
     PORT
       LAYER met3 ;
         RECT 133.595 9.045 133.605 9.055 ;
+    END
+    PORT
+      LAYER met3 ;
+        RECT 133.435 31.365 133.445 31.375 ;
+    END
+    PORT
+      LAYER met3 ;
+        RECT 125.635 31.365 125.645 31.375 ;
     END
   END vctrp
   OBS
@@ -810,7 +829,14 @@ MACRO tt_um_Onchip_RCO
       LAYER met2 ;
         RECT 120.425 8.230 138.760 32.190 ;
       LAYER met3 ;
-        RECT 1.000 30.365 141.145 41.895 ;
+        RECT 1.000 31.775 141.145 41.895 ;
+        RECT 1.000 30.965 125.235 31.775 ;
+        RECT 126.045 30.965 127.185 31.775 ;
+        RECT 127.995 30.965 129.135 31.775 ;
+        RECT 129.945 30.965 131.085 31.775 ;
+        RECT 131.895 30.965 133.035 31.775 ;
+        RECT 133.845 30.965 141.145 31.775 ;
+        RECT 1.000 30.365 141.145 30.965 ;
         RECT 1.000 29.555 122.990 30.365 ;
         RECT 123.800 29.555 141.145 30.365 ;
         RECT 1.000 22.145 141.145 29.555 ;
